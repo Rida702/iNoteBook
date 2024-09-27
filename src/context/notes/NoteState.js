@@ -4,7 +4,7 @@ import NoteContext from "./noteContext";
 const NoteState = (props) => {
     let initialNotes = [
     {
-      "_id": "66f69bfff45d8f24fe6dd70f",
+      "_id": "66f69b21312fff45d8f24fe6dd70f",
       "user": "66f684aad4571ed9ea2a99a1",
       "title": "Furniture List",
       "description": "Buy milk, eggs, and bread from the supermarket.",
@@ -13,7 +13,7 @@ const NoteState = (props) => {
       "__v": 0
     },
     {
-      "_id": "66f6ce805f59011af5442951",
+      "_id": "66f6ce8221edsd05f59011af5442951",
       "user": "66f684aad4571ed9ea2a99a1",
       "title": "Furniture List",
       "description": "Buy milk, eggs, and bread from the supermarket.",
@@ -22,7 +22,7 @@ const NoteState = (props) => {
       "__v": 0
     },
     {
-      "_id": "66f6ce965f59011af5442953",
+      "_id": "66f6ce9gfgfhde65f59011af5442953",
       "user": "66f684aad4571ed9ea2a99a1",
       "title": "Shopping List",
       "description": "Buy milk, eggs, and bread from the supermarket.",
@@ -31,7 +31,7 @@ const NoteState = (props) => {
       "__v": 0
     },
     {
-      "_id": "66f6ceb45f59011af5442955",
+      "_id": "66f6ceb45fewer59011af5442955",
       "user": "66f684aad4571ed9ea2a99a1",
       "title": "To do List",
       "description": "Do all Tasks",
@@ -40,7 +40,7 @@ const NoteState = (props) => {
       "__v": 0
     },
     {
-        "_id": "66f6ce965f59011af5442953",
+        "_id": "66f6ce965bhngwef59011af5442953",
         "user": "66f684aad4571ed9ea2a99a1",
         "title": "Shopping List",
         "description": "Buy milk, eggs, and bread from the supermarket.",
@@ -49,7 +49,7 @@ const NoteState = (props) => {
         "__v": 0
       },
       {
-        "_id": "66f6ceb45f59011af5442955",
+        "_id": "66f6ceb45ewr4tgf59011af5442955",
         "user": "66f684aad4571ed9ea2a99a1",
         "title": "To do List",
         "description": "Do all Tasks",
@@ -58,7 +58,7 @@ const NoteState = (props) => {
         "__v": 0
       },
       {
-        "_id": "66f6ce965f59011af5442953",
+        "_id": "66f6ce965rg54gff59011af5442953",
         "user": "66f684aad4571ed9ea2a99a1",
         "title": "Shopping List",
         "description": "Buy milk, eggs, and bread from the supermarket.",
@@ -67,7 +67,7 @@ const NoteState = (props) => {
         "__v": 0
       },
       {
-        "_id": "66f6ceb45f59011af5442955",
+        "_id": "66f6ceb45f5fggr4fg9011af5442955",
         "user": "66f684aad4571ed9ea2a99a1",
         "title": "To do List",
         "description": "Do all Tasks",
